@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Mosapi
-- 👀 I’m interested in 3d modeling, web programming and graphics
-- 🌱 I’m currently learning sculpting, texturing
-- 💞️ I want to learn how to simulate liquids and other objects, repotology
-- 📫 How to reach me ...
-
 <!---
 Mosapi/Mosapi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Binamelato&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binamelato&show_icons=true&theme=graywhite)
